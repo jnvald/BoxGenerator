@@ -25,6 +25,9 @@ const Boton = styled.button`
 	border: none;
 	border-radius: 3px;
 	cursor: pointer;
+	margin: 5px;
+	justify-content: center;
+	align-items: center;
 	transition: .1s ease all;
 	&:hover {
 		box-shadow: 3px 0px 30px rgba(163,163,163, 1);

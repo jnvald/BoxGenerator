@@ -19,7 +19,7 @@ function App() {
   return (
     <main>
       <div className="App">
-          <h1>Generador de cajas de colores</h1>
+          <h1>Box Generator</h1>
       <Fragment>
       <div>
       <Cajitas colorBox={ colorBox } setColorBox = { setColorBox } arrayColor = { arrayColor } setArrayColor = { setArrayColor }/>

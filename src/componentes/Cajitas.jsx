@@ -31,7 +31,7 @@ const estilos = makeStyles((theme) => ({
                     name="color"
                     id="color"
                     value={ colorBox.color }
-                    placeholder="Escriba el color. Ex: Rojo"
+                    placeholder="Escriba el color. Ej: Red"
                     onChange={(e) => setColorBox({
                         [e.target.name]: e.target.value}
                         )}>
